@@ -1,2 +1,3 @@
 # Portfolio
-Portfolio Page
+Free Code Camp Portfolio Page Project
+Utilizing HTML and CSS
